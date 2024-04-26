@@ -6,7 +6,7 @@ export default function HouseList(){
     return(
         <>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses">
+                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="https://rent-it-phi.vercel.app/houses">
                     <Image
                         alt="Property 1"
                         className="w-full h-48 object-cover"
