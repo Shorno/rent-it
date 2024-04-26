@@ -1,7 +1,7 @@
-import Navbar from "@/components/navbar";
-import HeroSection from "@/components/hero-section";
-import HouseList from "@/components/house-list";
-import MyPagination from "@/components/pagination";
+import Navbar from "@/components/home-page/navbar";
+import HeroSection from "@/components/home-page/hero-section";
+import HouseList from "@/components/home-page/house-list";
+import MyPagination from "@/components/home-page/pagination";
 
 export default function LandingPage() {
     return (
