@@ -72,12 +72,12 @@ export default function HeroSection(){
                         <Image
                             alt="Rental home"
                             className="rounded-lg shadow-lg"
-                            height={700}
-                            width={430}
                             src="/img/Cover.jpg"
+                            height={400}
+                            width={600}
                             style={{
                                 aspectRatio: "600/400",
-                                objectFit: "fit",
+                                objectFit: "cover",
                             }}
                         />
                     </div>
