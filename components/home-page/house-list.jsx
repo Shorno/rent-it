@@ -6,7 +6,7 @@ export default function HouseList(){
     return(
         <>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
-                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses/dynamic">
+                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses">
                     <Image
                         alt="Property 1"
                         className="w-full h-48 object-cover"
@@ -34,7 +34,7 @@ export default function HouseList(){
                         <p>Spacious 3-bedroom apartment in the heart of the city.</p>
                     </div>
                 </Link>
-                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses/dynamic">
+                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses">
                     <Image
                         alt="Property 2"
                         className="w-full h-48 object-cover"
@@ -62,7 +62,7 @@ export default function HouseList(){
                         <p>Luxurious 4-bedroom house with a pool and private backyard.</p>
                     </div>
                 </Link>
-                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses/dynamic">
+                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses">
                     <Image
                         alt="Property 3"
                         className="w-full h-48 object-cover"
@@ -90,7 +90,7 @@ export default function HouseList(){
                         <p>Cozy 2-bedroom apartment with a balcony and city views.</p>
                     </div>
                 </Link>
-                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses/dynamic">
+                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses">
                     <Image
                         alt="Property 4"
                         className="w-full h-48 object-cover"
@@ -118,7 +118,7 @@ export default function HouseList(){
                         <p>Modern 3-bedroom townhouse with a private garage.</p>
                     </div>
                 </Link>
-                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses/dynamic">
+                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses">
                     <Image
                         alt="Property 5"
                         className="w-full h-48 object-cover"
@@ -146,7 +146,7 @@ export default function HouseList(){
                         <p>Charming 2-bedroom apartment with a private patio.</p>
                     </div>
                 </Link>
-                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses/dynamic">
+                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses">
                     <Image
                         alt="Property 6"
                         className="w-full h-48 object-cover"
@@ -174,7 +174,7 @@ export default function HouseList(){
                         <p>Luxurious 4-bedroom house with a pool and private yard.</p>
                     </div>
                 </Link>
-                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses/dynamic">
+                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses">
                     <Image
                         alt="Property 7"
                         className="w-full h-48 object-cover"
@@ -203,7 +203,7 @@ export default function HouseList(){
                         <p>Cozy 2-bedroom apartment with a balcony and city views.</p>
                     </div>
                 </Link>
-                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses/dynamic">
+                <Link className="bg-white rounded-lg shadow-lg overflow-hidden" href="/houses">
                     <Image
                         alt="Property 7"
                         className="w-full h-48 object-cover"
