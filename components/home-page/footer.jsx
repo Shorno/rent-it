@@ -10,10 +10,10 @@ const Footer = () => {
                     <Link className="text-xl font-bold" href="#">
                         Rent It
                     </Link>
-                    <p className="text-gray-400 mt-2">© 2024 Rent It. All rights reserved.</p>
+                    <p className="text-gray-400 mt-2">© 2024 Rent It. All rights reserved by Shorno</p>
                 </div>
                 <nav className="flex space-x-6">
-                    <Link className="hover:underline" href="#">
+                    <Link className="hover:underline :text-sm sm:text-blue-700" href="#">
                         Terms of Service
                     </Link>
                     <Link className="hover:underline" href="#">

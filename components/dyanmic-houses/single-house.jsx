@@ -3,6 +3,7 @@ import Link from "next/link"
 import { Button } from "@/components/ui/button"
 import {MapPinIcon, HeartIcon, BedIcon, BathIcon, RulerIcon, WalletIcon, CarIcon, BuildingIcon, UtensilsIcon, LockIcon} from "lucide-react";
 
+
 export default function SingleHouse() {
     return (
         <>
